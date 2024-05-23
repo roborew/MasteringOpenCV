@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a94099-df89-41cd-b03e-848b236f5ae7" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/02_03_Logical_Operations.ipynb" afterDir="false" />
+    <list default="true" id="40a94099-df89-41cd-b03e-848b236f5ae7" name="Changes" comment="Updated modules">
+      <change afterPath="$PROJECT_DIR$/module05-contours/exam/exam.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module05-contours/exam/soccer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MasteringOpenCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MasteringOpenCV.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/Applications/02_05_Application_Watermark.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/Applications/02_05_Application_Watermark.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_01_Reading_and_Streaming_Videos.py" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_01_Reading_and_Streaming_Videos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_02_Writing_Videos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_02_Writing_Videos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_03_Motion_Detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_03_Motion_Detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +55,13 @@
     "Python.02_03_Logical_Operations.executor": "Run",
     "Python.02_06_Application_E_Signature.executor": "Run",
     "Python.03_02_Color_Segmentation.executor": "Run",
+    "Python.04_01_Reading_and_Streaming_Videos.executor": "Debug",
+    "Python.04_02_Writing_Videos.executor": "Run",
+    "Python.06_02_Web_game.executor": "Run",
     "Python.PyCharm_Demo.executor": "Debug",
-    "Python.main.executor": "Debug",
+    "Python.Web-game-racing.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.streamlit_app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -61,7 +70,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Jupyter Settings",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -72,8 +81,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/module02-arithmetic-logical-thresholding" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/module05-contours/exam" />
+      <recent name="$PROJECT_DIR$/module02-arithmetic-logical-thresholding" />
     </key>
   </component>
   <component name="RunManager">
@@ -86,8 +96,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="opencv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -121,7 +132,11 @@
       <workItem from="1714768865952" duration="2554000" />
       <workItem from="1714771465793" duration="11773000" />
       <workItem from="1715165133837" duration="2406000" />
-      <workItem from="1715167834387" duration="12155000" />
+      <workItem from="1715167834387" duration="14678000" />
+      <workItem from="1715700208622" duration="6060000" />
+      <workItem from="1716047207755" duration="557000" />
+      <workItem from="1716300880421" duration="10896000" />
+      <workItem from="1716373354942" duration="4949000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -131,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714756360401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715695670593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715695670593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated modules">
+      <option name="closed" value="true" />
+      <created>1715695712889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715695712889</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Updated modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -160,14 +192,24 @@
           <line>14</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module04-video-processing-and-analysis/04_01_Reading_and_Streaming_Videos.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$04_01_Reading_and_Streaming_Videos.coverage" NAME="04_01_Reading_and_Streaming_Videos Coverage Results" MODIFIED="1715700388734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module04-video-processing-and-analysis" />
     <SUITE FILE_PATH="coverage/MasteringOpenCV$03_02_Color_Segmentation.coverage" NAME="03_02_Color_Segmentation Coverage Results" MODIFIED="1715695429310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module03-histograms-and-color-segmentation" />
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$Web_game_racing.coverage" NAME="Web-game-racing Coverage Results" MODIFIED="1716373765232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module06-playing-games-using-hci/Applications" />
     <SUITE FILE_PATH="coverage/MasteringOpenCV$PyCharm_Demo.coverage" NAME="PyCharm_Demo Coverage Results" MODIFIED="1714770492115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module00-using-pycharm" />
-    <SUITE FILE_PATH="coverage/MasteringOpenCV$main.coverage" NAME="main Coverage Results" MODIFIED="1714770455224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$06_02_Web_game.coverage" NAME="06_02_Web_game Coverage Results" MODIFIED="1716373598811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module06-playing-games-using-hci/Applications" />
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$main.coverage" NAME="main Coverage Results" MODIFIED="1716373157168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$streamlit_app.coverage" NAME="streamlit_app Coverage Results" MODIFIED="1716374884890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module07-streamlit" />
     <SUITE FILE_PATH="coverage/MasteringOpenCV$02_03_Logical_Operations.coverage" NAME="02_03_Logical_Operations Coverage Results" MODIFIED="1715165355749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module02-arithmetic-logical-thresholding" />
     <SUITE FILE_PATH="coverage/MasteringOpenCV$02_06_Application_E_Signature.coverage" NAME="02_06_Application_E_Signature Coverage Results" MODIFIED="1715170145773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/Applications" />
+    <SUITE FILE_PATH="coverage/MasteringOpenCV$04_02_Writing_Videos.coverage" NAME="04_02_Writing_Videos Coverage Results" MODIFIED="1715698693422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module04-video-processing-and-analysis" />
   </component>
 </project>
