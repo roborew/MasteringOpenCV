@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a94099-df89-41cd-b03e-848b236f5ae7" name="Changes" comment="Updated modules">
-      <change afterPath="$PROJECT_DIR$/module05-contours/exam/exam.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module05-contours/exam/soccer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MasteringOpenCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MasteringOpenCV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="40a94099-df89-41cd-b03e-848b236f5ae7" name="Changes" comment="Updated to mod 7">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/Applications/02_05_Application_Watermark.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module02-arithmetic-logical-thresholding/Applications/02_05_Application_Watermark.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_01_Reading_and_Streaming_Videos.py" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_01_Reading_and_Streaming_Videos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_02_Writing_Videos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_02_Writing_Videos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_03_Motion_Detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module04-video-processing-and-analysis/04_03_Motion_Detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.02_03_Logical_Operations.executor": "Run",
-    "Python.02_06_Application_E_Signature.executor": "Run",
-    "Python.03_02_Color_Segmentation.executor": "Run",
-    "Python.04_01_Reading_and_Streaming_Videos.executor": "Debug",
-    "Python.04_02_Writing_Videos.executor": "Run",
-    "Python.06_02_Web_game.executor": "Run",
-    "Python.PyCharm_Demo.executor": "Debug",
-    "Python.Web-game-racing.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.streamlit_app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.02_03_Logical_Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_06_Application_E_Signature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_02_Color_Segmentation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_01_Reading_and_Streaming_Videos.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.04_02_Writing_Videos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_02_Web_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyCharm_Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Web-game-racing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.streamlit_app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mongo"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -115,8 +108,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
@@ -136,7 +129,22 @@
       <workItem from="1715700208622" duration="6060000" />
       <workItem from="1716047207755" duration="557000" />
       <workItem from="1716300880421" duration="10896000" />
-      <workItem from="1716373354942" duration="4949000" />
+      <workItem from="1716373354942" duration="12703000" />
+      <workItem from="1717006582233" duration="683000" />
+      <workItem from="1717057915146" duration="495000" />
+      <workItem from="1717058425179" duration="1412000" />
+      <workItem from="1717432415776" duration="608000" />
+      <workItem from="1717515559094" duration="4459000" />
+      <workItem from="1717759264865" duration="5650000" />
+      <workItem from="1718368078946" duration="1200000" />
+      <workItem from="1718660091409" duration="57000" />
+      <workItem from="1718660159187" duration="599000" />
+      <workItem from="1718839852180" duration="117000" />
+      <workItem from="1718886388835" duration="601000" />
+      <workItem from="1720183737006" duration="584000" />
+      <workItem from="1720186046434" duration="572000" />
+      <workItem from="1722592963507" duration="599000" />
+      <workItem from="1723491548882" duration="2272000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -162,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715695712889</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated to mod 7">
+      <option name="closed" value="true" />
+      <created>1716483894300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716483894300</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated to mod 7">
+      <option name="closed" value="true" />
+      <created>1716483908173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716483908173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Updated modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated modules" />
+    <MESSAGE value="Updated to mod 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to mod 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
