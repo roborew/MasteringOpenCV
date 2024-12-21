@@ -13,3 +13,5 @@ pyautogui
 mediapipe
 
 mime
+
+streamlit-drawable-canvas
